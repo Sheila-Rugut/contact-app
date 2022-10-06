@@ -1,0 +1,54 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "name": "Samuel",
+      "email": "samg@gmail.com"
+    },
+    {
+      "id": 2,
+      "name": "Collins",
+      "email": "collinsmaina@gmail.com"
+    },
+    {
+      "id": 4,
+      "name": "Sheila",
+      "email": "sheilasheila@gmail.com"
+    },
+    {
+      "id": 6,
+      "name": "Betty",
+      "email": "bettybayo@gmail.com"
+    },
+    {
+      "id": 7,
+      "name": "simion",
+      "email": "simionopiyo@gmail.com"
+    },
+    {
+      "id": 8,
+      "name": "jacob",
+      "email": "jacobkimaiyo@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "peter",
+      "email": "peterkimaiyo@gmail.com"
+    },
+    {
+      "id": 9,
+      "name": "Kelvin",
+      "email": "kelvinodhiambo@gmail.com"
+    },
+    {
+      "id": 10,
+      "name": "Eunice",
+      "email": "eunicemwendwa@gmail.com"
+    },
+    {
+      "id": 11,
+      "name": "Roseline",
+      "email": "roseamina@gmail.com"
+    }
+  ]
+}
