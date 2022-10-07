@@ -1,11 +1,6 @@
 {
   "contacts": [
     {
-      "id": 1,
-      "name": "Samuel",
-      "email": "samg@gmail.com"
-    },
-    {
       "id": 2,
       "name": "Collins",
       "email": "collinsmaina@gmail.com"
@@ -49,6 +44,41 @@
       "id": 11,
       "name": "Roseline",
       "email": "roseamina@gmail.com"
+    },
+    {
+      "name": "sheila",
+      "email": "sheilarugut@gmail.com",
+      "id": 12
+    },
+    {
+      "name": "sheila",
+      "email": "sheilarugut@gmail.com",
+      "id": 13
+    },
+    {
+      "name": "sheila",
+      "email": "sheilarugut@gmail.com",
+      "id": 14
+    },
+    {
+      "name": "sheila",
+      "email": "sheilarugut@gmail.com",
+      "id": 15
+    },
+    {
+      "name": "sheila",
+      "email": "sheilarugut@gmail.com",
+      "id": 16
+    },
+    {
+      "name": "sheila",
+      "email": "sheilarugut@gmail.com",
+      "id": 17
+    },
+    {
+      "name": "sheila",
+      "email": "sheilarugut@gmail.com",
+      "id": 18
     }
   ]
 }
