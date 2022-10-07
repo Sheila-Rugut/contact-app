@@ -6,7 +6,7 @@ import '../index.css';
 function ContactList() {
  const [contacts, setContacts] =useState([]);
  useEffect(() => {
-  fetch(`http://localhost:5000/contacts` )
+  fetch(`https://projectapi01.herokuapp.com/contacts` )
     .then((r) => r.json())
  .then((contacts) => setContacts(contacts))
 }, []);
