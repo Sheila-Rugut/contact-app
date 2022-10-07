@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/sheila/static/css/main.01b00350.css",
+    "main.js": "/sheila/static/js/main.52254a10.js",
+    "index.html": "/sheila/index.html",
+    "main.01b00350.css.map": "/sheila/static/css/main.01b00350.css.map",
+    "main.52254a10.js.map": "/sheila/static/js/main.52254a10.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01b00350.css",
+    "static/js/main.52254a10.js"
+  ]
+}
