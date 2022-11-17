@@ -15,7 +15,7 @@ function NavBar() {
   return (
     <div>
       <NavLink
-        to="/contact-app"
+        to="/"
         exact
         style={linkStyles}
         activeStyle={{
@@ -25,7 +25,7 @@ function NavBar() {
         Home
       </NavLink>
       <NavLink
-        to="/contact-app/About"
+        to="/About"
         exact
         style={linkStyles}
         activeStyle={{
@@ -35,7 +35,7 @@ function NavBar() {
         About
       </NavLink>
       <NavLink
-        to="/contact-app/ContactList"
+        to="/ContactList"
         exact
         style={linkStyles}
         activeStyle={{

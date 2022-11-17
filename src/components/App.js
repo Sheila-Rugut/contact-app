@@ -14,9 +14,9 @@ function App() {
         <div className="font-weight-light">Contact App</div>
       <NavBar />
       <Routes>
-        <Route path="/contact-app" element={<Home />} />
-        <Route path="/contact-app/About" element={<About />} />
-        <Route path="/contact-app/ContactList" element={<ContactList />} />
+        <Route exact path="/" element={<Home />} />
+        <Route path="/About" element={<About />} />
+        <Route path="/ContactList" element={<ContactList />} />
       </Routes>
     </div>
     </div>
