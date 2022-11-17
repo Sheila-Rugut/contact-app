@@ -10,7 +10,7 @@ function ContactList() {
     .then((r) => r.json())
  .then((contacts) => setContacts(contacts))
 }, []);
- const displayContacts=contacts.map(contact=><ul key={contact.id}>
+ const displayContacts=contacts.map(contact=><ul key={contact.name}>
   {contact.name} {contact.email}
   <i  className='trash alternate outline icon right floated' 
                         style={{color:"black", fontSize:"15px", marginLeft:"10px"}} 
