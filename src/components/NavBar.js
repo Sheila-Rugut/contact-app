@@ -1,49 +1,45 @@
 import React from "react";
 import { NavLink } from "react-router-dom";
+import '../index.css';
+// import styled from 'styled-components';
 
-const linkStyles = {
-  display: "inline-block",
-  width: "100px",
-  padding: "12px",
-  margin: "0 6px 6px",
-  background: "blue",
-  textDecoration: "none",
-  color: "white",
-};
+//  const linkStyles = {
+// //   display: "inline-block",
+// //    width: "100px",
+// //    padding: "12px",
+// //  margin: "0 6px 6px",
+// //    background: "blue",
+// //   textDecoration: "none",
+     
+    
+      
+//  };
 
 function NavBar() {
   return (
-    <div>
-      <NavLink
+    <div className="nav">
+      <div className="ape">Contact Manager</div>
+      <ul>
+      <li><NavLink
         to="/"
-        exact
-        style={linkStyles}
-        // activeStyle={{
-        //   background: "darkblue",
-        // }}
       >
         Home
       </NavLink>
-      <NavLink
-        to="/About"
-        exact
-        style={linkStyles}
-        // activeStyle={{
-        //   background: "darkblue",
-        // }}
-      >
-        About
-      </NavLink>
+      </li>
+      <li>
       <NavLink
         to="/ContactList"
-        exact
-        style={linkStyles}
-        // activeStyle={{
-        //   background: "darkblue",
-        // }}
       >
-        ContactList
+        Contact List
+      </NavLink></li>
+      
+      <li><NavLink
+        to="/AddContact"
+      >
+        Add Contact
       </NavLink>
+      </li>
+      </ul>
     </div>
   );
 }

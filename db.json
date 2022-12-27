@@ -3,82 +3,32 @@
     {
       "id": 2,
       "name": "Collins",
-      "email": "collinsmaina@gmail.com"
+      "email": "collinsmaina@gmail.com",
+      "phone": "01111111111"
     },
     {
       "id": 4,
       "name": "Sheila",
-      "email": "sheilasheila@gmail.com"
-    },
-    {
-      "id": 6,
-      "name": "Betty",
-      "email": "bettybayo@gmail.com"
+      "email": "sheilasheila@gmail.com",
+      "phone": "01234444444"
     },
     {
       "id": 7,
       "name": "simion",
-      "email": "simionopiyo@gmail.com"
-    },
-    {
-      "id": 8,
-      "name": "jacob",
-      "email": "jacobkimaiyo@gmail.com"
-    },
-    {
-      "id": 9,
-      "name": "peter",
-      "email": "peterkimaiyo@gmail.com"
-    },
-    {
-      "id": 9,
-      "name": "Kelvin",
-      "email": "kelvinodhiambo@gmail.com"
+      "email": "simionopiyo@gmail.com",
+      "phone": "01234444444"
     },
     {
       "id": 10,
       "name": "Eunice",
-      "email": "eunicemwendwa@gmail.com"
+      "email": "eunicemwendwa@gmail.com",
+      "phone": "01999999999"
     },
     {
-      "id": 11,
-      "name": "Roseline",
-      "email": "roseamina@gmail.com"
-    },
-    {
-      "name": "sheila",
-      "email": "sheilarugut@gmail.com",
-      "id": 12
-    },
-    {
-      "name": "sheila",
-      "email": "sheilarugut@gmail.com",
-      "id": 13
-    },
-    {
-      "name": "sheila",
-      "email": "sheilarugut@gmail.com",
-      "id": 14
-    },
-    {
-      "name": "sheila",
-      "email": "sheilarugut@gmail.com",
-      "id": 15
-    },
-    {
-      "name": "sheila",
-      "email": "sheilarugut@gmail.com",
-      "id": 16
-    },
-    {
-      "name": "sheila",
-      "email": "sheilarugut@gmail.com",
-      "id": 17
-    },
-    {
-      "name": "sheila",
-      "email": "sheilarugut@gmail.com",
-      "id": 18
+      "name": "kim",
+      "email": "kimkimutai@gmail.com",
+      "id": 12,
+      "phone": "023456789"
     }
   ]
 }
